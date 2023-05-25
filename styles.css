@@ -84,6 +84,7 @@ body {
 
 .player__controls > * {
   flex: 1;
+	
 }
 
 .progress {
